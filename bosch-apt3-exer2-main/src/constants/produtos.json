@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Perfume",
+    "desc": "Miguel Rousseouf",
+    "value": "100.00",
+    "categoria": "Cosmeticos",
+    "status": "false",
+    "image": "https://img.irroba.com.br/fit-in/600x600/filters:fill(fff):quality(80)/volarium/catalog/produtos/volarium/perfume/perfume-feminino/perfume-feminino-ch-tradicional-importado-original.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Colar",
+    "desc": "Jand Karno em perolas",
+    "value": "2200.00",
+    "categoria": "Acessorio",
+    "status": "false",
+    "image": "https://cdn.awsli.com.br/600x450/1537/1537341/produto/152389745/01e29e7fcc.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Anel",
+    "desc": "Cravejado em diamantes",
+    "value": "6499.99",
+    "categoria": "Acessorio",
+    "status": "false",
+    "image": "https://stelladiamonds.com.br/wp-content/uploads/2021/11/f230a72d9dcafe8b651dbfa4c03252f1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Tenis Gucci",
+    "desc": "Confortavel e bonito",
+    "value": "5500.00",
+    "categoria": "Calçado",
+    "status": "false",
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTIrxq1M9ITLhueAQS7WyYfxxJz6KgwbvVVAXUuYSVoQ4EpwOrroknIAa8XmrOCxVZAfpWCNnLjsNnvmw8Qc-FiNT5r4E1UAklEvI88OT2jO4CYN9rAS8fFAmQ&usqp=CAE"
+  },
+  {
+    "id": 5,
+    "name": "Blusa Prada",
+    "desc": "Quente e bonita",
+    "value": "14000.00",
+    "categoria": "Vestimenta",
+    "status": "false",
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQMRdC60dicGX1Gf-A4Tg3ZKga47nyB075VdvmuCovgpUqkulScpNIwVyn_VkaCTetKApX22fVV7ew3wd6lZOGD38CWY9lAVwz7xva5AxAz6UbjTpYapNxx4NzX_I7PyJyd1UXk7Hg&usqp=CAc"
+  }
+]
