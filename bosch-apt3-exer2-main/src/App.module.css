@@ -38,8 +38,14 @@
   margin: 5%;
 }
 
-.circulo {
+.circuloRed {
   background: red;
+  border-radius: 80%;
+  width: 10px;
+  height: 10px;
+}
+.circuloGreen {
+  background: green;
   border-radius: 80%;
   width: 10px;
   height: 10px;

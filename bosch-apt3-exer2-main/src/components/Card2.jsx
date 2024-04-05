@@ -3,7 +3,7 @@ export const Card2 = (props) => {
   return (
     <div className={style.card}>
       <h1>{props.name}</h1>
-      <h2>{props.status}</h2>
+      <p>{props.status}</p>
       <p>{props.species}</p>
       <p>{props.type}</p>
       <p>{props.gender}</p>
